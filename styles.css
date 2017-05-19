@@ -1,0 +1,21 @@
+.background {
+  background: url("http://hdwplan.com/wp-content/uploads/2017/03/awesome-lights-in-building.jpg") center;
+  position: relative;
+  width: 700px;
+  height: 600px;
+  margin: 100px auto;
+}
+.layer {
+  background-color: rgba(197, 247, 206, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.center{
+  text-align: center;
+}
+#city{
+  padding-top: 100px;f
+}
